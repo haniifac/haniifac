@@ -2,20 +2,23 @@
 **haniifac/haniifac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# About Me
-Motto
+## Motto (?)
 > Failure for those who try, Triumph to those who persist, and Doom upon those who choose not.
+
+## About Me
 
 Here's a short explanation about myself <br>
 
-:wave: \- I go by the name ***Haniif***. <br>
+:wave: \- I go by the name *Haniif*. <br>
 :rocket: \- Interested in Software Development and Machine Learning. <br>
-:school: \- Universitas Kristen Duta Wacana, Third year Informatics Undergraduate. <br>
+:school: \- Third year Informatics Undergraduate, Indonesia. <br>
 :cloud: \- I enjoy Competitive Programming, and games too :) <br>
 
-
+## 
 If there's anything that you want to talk about, feel free to contact me via
 - [Linkedin](https://www.linkedin.com/in/haniif-ahmad-candraputra-2a989621a/)
+
+## 
 
 <p align="left">
 <a href="https://github.com/haniifac">
