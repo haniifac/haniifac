@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 # About Me
 
-Perkenalkan nama saya **Haniif Ahmad Candraputra**.\
+Perkenalkan nama saya **Haniif Ahmad Candraputra**.
 
-Saya seorang Mahasiswa **Informatika** di [Universitas Kristen Duta Wacana](https://www.ukdw.ac.id/).\
+Saya seorang Mahasiswa **Informatika** di [Universitas Kristen Duta Wacana](https://www.ukdw.ac.id/).
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/haniif-ahmad-candraputra-2a989621a/)
