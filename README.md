@@ -1,27 +1,21 @@
 <!--
 **haniifac/haniifac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 # About Me
+Motto
+> Failure for those who try, Triumph to those who persist, and Doom upon those who choose not.
 
-Perkenalkan nama saya **Haniif Ahmad Candraputra**.
+Here's a short explanation about myself <br>
 
-Saya seorang Mahasiswa **Informatika** di [Universitas Kristen Duta Wacana](https://www.ukdw.ac.id/).<br>
-Saya saat ini sedang mendalami Software Development dan tertarik terhadap Android Application Development.<br>
-Saya juga tertarik di bidang Machine Learning dan Competitive Programming.<br>
+:wave: \- I go by the name ***Haniif***. <br>
+:rocket: \- Interested in Software Development and Machine Learning. <br>
+:school: \- Universitas Kristen Duta Wacana, Third year Informatics Undergraduate. <br>
+:cloud: \- I enjoy Competitive Programming, and games too :) <br>
 
-Jika kamu tertarik untuk berkenalan denganku atau ingin menghubungi, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/haniif-ahmad-candraputra-2a989621a/)
+
+If there's anything that you want to talk about, feel free to contact me via
+- [Linkedin](https://www.linkedin.com/in/haniif-ahmad-candraputra-2a989621a/)
 
 <p align="left">
 <a href="https://github.com/haniifac">
