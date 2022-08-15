@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **haniifac/haniifac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About Me
+
+Perkenalkan nama saya **Haniif Ahmad Candraputra**.\
+
+Saya seorang Mahasiswa **Informatika** di [Universitas Kristen Duta Wacana](https://www.ukdw.ac.id/).\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/haniif-ahmad-candraputra-2a989621a/)
