@@ -7,7 +7,7 @@
 
 ## About Me
 
-Here's a short explanation about myself <br>
+Here's a short introduction about myself <br>
 
 :wave: \- I go by the name *Haniif*. <br>
 :rocket: \- Interested in Software Development and Competitive Programming. <br>
