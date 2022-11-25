@@ -10,7 +10,7 @@
 Here's a short explanation about myself <br>
 
 :wave: \- I go by the name *Haniif*. <br>
-:rocket: \- Interested in Software Development and Machine Learning. <br>
+:rocket: \- Interested in Software Development and Competitive Programming. <br>
 :school: \- Third year Informatics Undergraduate, Indonesia. <br>
 :cloud: \- I enjoy Competitive Programming, and games too :) <br>
 
