@@ -1,17 +1,13 @@
 <!--
 **haniifac/haniifac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-## Motto (?)
-> Failure for those who try, Triumph to those who persist, and Doom upon those who choose not.
-
 ## About Me
 
 Here's a short introduction about myself <br>
 
 :wave: \- I go by the name *Haniif*. <br>
 :rocket: \- Interested in Software Development. <br>
-:school: \- Third year Informatics Undergraduate, Indonesia. <br>
+:school: \- Informatics Undergraduate, Indonesia. <br>
 :cloud: \- I enjoy Competitive Programming, and games too :) <br>
 
 ## 
