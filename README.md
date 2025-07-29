@@ -13,6 +13,9 @@ Here's a short introduction about myself <br>
 ## 
 If there's anything that you want to talk about, feel free to contact me via
 - [Linkedin](https://www.linkedin.com/in/haniif-ahmad-candraputra-2a989621a/)
+<a href="https://www.linkedin.com/in/haniifcandraputra/">
+  <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+</a>
 
 ## 
 
