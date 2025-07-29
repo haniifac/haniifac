@@ -1,9 +1,7 @@
 <!--
 **haniifac/haniifac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## About Me
-
-Here's a short introduction about myself <br>
+## Hello there :wave:
 
 :wave: \- I go by the name *Haniif*. <br>
 :rocket: \- Interested in Software Development. <br>
@@ -19,8 +17,7 @@ Here's a short introduction about myself <br>
 </a>
 </p>
 
-## 
-If there's anything that you want to talk about, feel free to contact me via
-<a href="https://www.linkedin.com/in/haniifcandraputra/">
-  <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
-</a>
+## Contact
+
+![Static Badge](https://img.shields.io/badge/haniifac-white?style=for-the-badge&logo=inspire&logoColor=blue&color=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhaniifcandraputra%2F) ![Static Badge](https://img.shields.io/badge/haniifac-white?style=for-the-badge&logo=instagram&logoColor=pink&color=blue&link=https%3A%2F%2Fwww.instagram.com%2Fhaniifac%2F)
+
