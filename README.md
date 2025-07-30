@@ -19,5 +19,6 @@
 
 ## Contact
 
-![Static Badge](https://img.shields.io/badge/haniifac-white?style=for-the-badge&logo=inspire&logoColor=blue&color=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhaniifcandraputra%2F) ![Static Badge](https://img.shields.io/badge/haniifac-white?style=for-the-badge&logo=instagram&logoColor=pink&color=blue&link=https%3A%2F%2Fwww.instagram.com%2Fhaniifac%2F)
+![Static Badge](https://img.shields.io/badge/haniifac-white?style=for-the-badge&logo=inspire&logoColor=blue&color=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhaniifcandraputra%2F)https://www.instagram.com/haniifac/ 
+![Static Badge](https://img.shields.io/badge/haniifac-white?style=for-the-badge&logo=instagram&logoColor=pink&color=blue&link=https%3A%2F%2Fwww.instagram.com%2Fhaniifac%2F)
 
